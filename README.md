@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dezzicz1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @dezzicz1a
+- 👀 I’m interested in ...a
+- 🌱 I’m currently learning ...a
+- 💞️ I’m looking to collaborate on ...a
+- 📫 How to reach me ...a
 
 <!---
 dezzicz1/dezzicz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
